@@ -1,0 +1,15 @@
+artifact_uri: file:///home/seaflux/Documents/mlops_project/mlruns/0/6e41153fa0bc4f5297cf81760884fd71/artifacts
+end_time: 1718259375939
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6e41153fa0bc4f5297cf81760884fd71
+run_name: casual-colt-683
+run_uuid: 6e41153fa0bc4f5297cf81760884fd71
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718259373437
+status: 3
+tags: []
+user_id: seaflux
