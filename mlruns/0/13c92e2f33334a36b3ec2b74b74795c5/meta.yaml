@@ -1,0 +1,15 @@
+artifact_uri: file:///home/seaflux/Documents/mlops_project/mlruns/0/13c92e2f33334a36b3ec2b74b74795c5/artifacts
+end_time: 1718360214049
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 13c92e2f33334a36b3ec2b74b74795c5
+run_name: secretive-rook-499
+run_uuid: 13c92e2f33334a36b3ec2b74b74795c5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718360211747
+status: 3
+tags: []
+user_id: seaflux
