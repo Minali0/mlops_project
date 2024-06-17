@@ -1,0 +1,15 @@
+artifact_uri: file:///home/seaflux/Documents/mlops_project/mlruns/0/2f342d2ed7034f7aa7ad904b2e695d15/artifacts
+end_time: 1718370343148
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2f342d2ed7034f7aa7ad904b2e695d15
+run_name: persistent-bass-802
+run_uuid: 2f342d2ed7034f7aa7ad904b2e695d15
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718370340904
+status: 3
+tags: []
+user_id: seaflux
